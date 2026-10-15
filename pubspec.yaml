@@ -1,5 +1,5 @@
 name: sd_studio
-description: RV Studio: on-device Stable Diffusion 1.5 text-to-image (Flutter, MVVM)
+description: RV Studio -on-device Stable Diffusion 1.5 text-to-image (Flutter, MVVM)
 publish_to: none
 version: 1.0.0
 environment:
