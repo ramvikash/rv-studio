@@ -1,0 +1,15 @@
+name: sd_studio
+description: RV Studio: on-device Stable Diffusion 1.5 text-to-image (Flutter, MVVM)
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: any
+  http: any
+  path_provider: any
+  gal: any
+flutter:
+  uses-material-design: true
